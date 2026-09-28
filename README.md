@@ -11,6 +11,7 @@ sensor and any hardware, as a maintainer in the [Kornia](https://github.com/korn
 - **Research**: how SLAM maps and world models can feed each other, and how AI agents can
   improve SLAM.
 - **Mentoring**: Google Summer of Code mentor for Kornia.
+- **Community**: Rising Ambassador at [OpenUK](https://openuk.uk).
 
 [cjpurackal.com](https://cjpurackal.com) · [@cjpurackal](https://x.com/cjpurackal) ·
 [Sponsor my work](https://github.com/sponsors/cjpurackal)
